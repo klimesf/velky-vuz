@@ -9,7 +9,7 @@ O projektu
 Použité technologie:
 - HTML5
 - CSS3
-- SCSS
+- SASS
 - JavaScript
 - jQuery
 - Twitter Bootstrap
